@@ -14,7 +14,8 @@ Built for practice and Myntra Hackathon application.
 javac StudentManagementSystem.java
 java StudentManagementSystem
 
-OUTPUT 
+OUTPUT : 
+
 --- Student Management System ---
 1. Add Student
 2. Display All Students
